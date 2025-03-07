@@ -6,19 +6,11 @@ Features
 
 📷 Real-time face detection
 
-
-https://github.com/user-attachments/assets/d3a71086-f4d3-4e70-8366-ad6be46e4f72
-
-
-
-https://github.com/user-attachments/assets/bebb329e-781f-4b22-8357-8701f6298133
-
-
 🟦 Bounding boxes around detected faces
 
-🔄 Toggle between front and back cameras
+ Toggle between front and back cameras
 
-🚀 Optimized for smooth performance
+ Optimized for smooth performance
 
 Getting Started
 
